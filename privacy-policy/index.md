@@ -1,80 +1,67 @@
-# Privacy Policy for Free Azan App
+# Privacy Policy for Salat Companion
 
-**Last Updated: February 21, 2026**
+**Last updated: October 17, 2026**
 
-Thank you for choosing the Free Azan App ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Salat Companion ("the app") is a free Islamic prayer app by Hadi, published by Anm Kabir. It has no accounts, no advertising and no analytics. This policy explains what the app keeps on your phone and the few cases where it sends anything over the internet.
 
-## 1. Information We Collect
+## 1. Data that stays on your phone
 
-### Location Information
-We collect precise location data (GPS coordinates) to calculate accurate prayer times and Qibla direction based on your current position. This information is processed locally on your device and is **never** stored on our servers or shared with third parties. 
+These are stored only on your device and are never sent to us:
 
-### Prayer Tracking Data
-If you enable the prayer tracking feature, we store information about which prayers you have marked as completed. This data is stored **locally on your device only** and is not transmitted to us.
+- **Prayer journal**: which prayers you mark as on time, late, missed or excused.
+- **Settings**: your location (city name and coordinates), calculation method, language, alerts, chosen Azan, Quran translation and reciter.
+- **Quran passages you have opened**, saved so they can be read offline.
 
-### App Settings
-Your app preferences (calculation methods, notification settings, muted prayers, etc.) are stored locally on your device.
+Uninstalling the app or clearing its data deletes all of this. There is no cloud backup or sync.
 
-## 2. How We Use Your Information
+## 2. Location
 
-We use the information we collect to:
-- Calculate accurate prayer times based on your location
-- Determine Qibla direction
-- Provide Azan notifications at prayer times
-- Enable prayer tracking features
-- Remember your app preferences
+- Prayer times and the Qibla direction are calculated **on your phone**, without the internet.
+- The app uses GPS **only when you tap "Use device location"**. You can instead search for a city or keep the default location.
+- To turn GPS coordinates into a place name, or a city name you type into coordinates, the app uses your phone's built-in geocoding service (Apple on iPhone, Google on Android). Those services receive the coordinates or search text under their own privacy policies.
+- **Masjid search** sends the coordinates of your selected location to the OpenStreetMap Overpass service (overpass-api.de), only when you tap Search.
 
-## 3. Data Storage and Security
+## 3. Content loaded from the internet
 
-All data collected by the Free Azan App is stored **exclusively on your device**. We do not:
-- ❌ Collect or store your personal information on any servers
-- ❌ Share your data with third parties
-- ❌ Track your usage across other apps
-- ❌ Use analytics or crash reporting tools 
+When you use these features, the app downloads content. Like any website, these services can see your IP address, but the app does not send them personal information:
 
-Your location data is processed locally and never leaves your device.
+- **Quran text, translations and recitation audio**: api.alquran.cloud and cdn.islamic.network.
+- **Haramain live tab**: the official channels' public YouTube feeds (youtube.com).
 
-## 4. Third-Party Services
+## 4. Feedback and error reports
 
-The Free Azan App does not use any third-party analytics, advertising, or tracking services. The app is completely ad-free and does not include any third-party SDKs that collect user data. 
+- **Feedback** (Settings → Send feedback): your message, the type (feedback, suggestion or problem), the app version and your phone type (iOS or Android) are emailed to the developer. If you choose to enter an email address, it is included so we can reply. Messages are relayed through a Google Apps Script owned by the developer and delivered to the developer's Gmail.
+- **Error reports** are **off by default**. If you turn on "Send error reports automatically" in Settings, technical details of app errors (the error message and code location, app version and phone type) are emailed to the developer the same way. They do not include your journal, location or any other personal data. You can turn this off at any time.
+- If your phone is offline, these messages wait on your phone and are sent when it is back online.
 
-## 5. Permissions Required
+We use feedback and error reports only to answer you and improve the app. We do not sell or share them, and we delete them when they are no longer needed.
 
-Our app requests the following permissions:
+## 5. Permissions
 
-| Permission | Purpose |
-|------------|---------|
-| **Location (Fine/Coarse)** | Calculate prayer times and Qibla direction based on your current location. You can disable this and enter your city manually. |
-| **Notifications** | Alert you at prayer times. |
-| **Vibration** | Azan notifications. |
-| **Wake Lock** | Ensure alarms work even when the device is asleep. |
+- **Location** (optional): only when you tap "Use device location".
+- **Notifications** and **exact alarms**: to play the Azan and prayer alerts at the right time.
+- **Run at startup**: to reschedule alerts after the phone restarts.
+- **Motion sensors**: for the Qibla compass.
+- **Internet**: for the features in sections 2 to 4.
 
-## 6. Children's Privacy
+## 6. What we do not do
 
-Our app does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. 
+- No advertising, analytics or tracking SDKs.
+- No selling or sharing of data with advertisers or data brokers.
+- No tracking across other apps or websites.
 
-## 7. Changes to This Privacy Policy
+## 7. Children
 
-We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after being posted on this page.
+The app is suitable for all ages and does not knowingly collect personal information from children. Feedback is optional; a child should not include personal details in a message.
 
-## 8. Your Rights
+## 8. Your choices
 
-Since all your data is stored locally on your device, you have complete control over it. You can:
-- Clear all app data through your device settings
-- Uninstall the app to remove all stored information
-- Disable location permissions at any time
+You can deny or revoke location and notification permissions in your phone's settings, turn error reports off in the app, and delete all app data by uninstalling the app. To ask about or delete a message you sent us, email us.
 
-## 9. Contact Us
+## 9. Changes
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
+If this policy changes, we will update this page and the date above.
 
-📧 **Email**: [kkabir@yahoo.com](mailto:kkabir@yahoo.com)
+## 10. Contact
 
-Developer: **Hadi**  
-App Name: **Free Azan App**
-
----
-
-*This Privacy Policy was last updated on February 21, 2026.*
-
-[Back to Home](https://kkabir.github.io)
+Email: **anm.kabir@gmail.com**

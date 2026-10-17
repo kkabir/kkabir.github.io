@@ -1,14 +1,14 @@
-# Terms of Service for Free Azan App
+# Terms of Service for Salat Companion
 
-**Last Updated: February 21, 2026**
+**Last Updated: October 17, 2026**
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the Free Azan App ("the App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
+By downloading, installing, or using the Salat Companion ("the App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
 
 ## 2. Description of Service
 
-The Free Azan App provides Islamic prayer times, Azan notifications, Qibla direction, and prayer tracking features. The App uses your device's location to calculate accurate prayer times based on your geographical position.
+The Salat Companion provides Islamic prayer times, Azan notifications, Qibla direction, and prayer tracking features. The App uses your device's location to calculate accurate prayer times based on your geographical position.
 
 ## 3. No Warranty
 
@@ -20,7 +20,7 @@ Prayer times are calculated using established astronomical formulas and recogniz
 
 ## 5. Location Data
 
-The App requires location access to function properly. You may choose to enter your city manually instead of using automatic location detection. All location data is processed locally on your device and is not collected by us.
+Location access is optional. You may search for your city instead of using device location. Prayer times are calculated on your device; see the [Privacy Policy](/privacy-policy) for the features that use the internet.
 
 ## 6. Intellectual Property
 
@@ -53,7 +53,7 @@ For any questions about these Terms, please contact us at:
 📧 **Email**: [kkabir@yahoo.com](mailto:kkabir@yahoo.com)
 
 Developer: **Hadi**  
-App Name: **Free Azan App**
+App Name: **Salat Companion**
 
 ---
 

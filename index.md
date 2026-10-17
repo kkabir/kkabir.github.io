@@ -1,10 +1,10 @@
-# Free Azan App - Legal Information
+# Salat Companion - Legal Information
 
-Welcome to the official legal documentation page for the **Free Azan App** by Hadi.
+Welcome to the official legal documentation page for the **Salat Companion** by Hadi.
 
 ## 📱 About the App
 
-Free Azan App is a privacy-focused Islamic application that provides accurate prayer times, Azan notifications, Qibla direction, and prayer tracking features.
+Salat Companion is a privacy-focused Islamic application that provides accurate prayer times, Azan notifications, Qibla direction, and prayer tracking features.
 
 ## 📄 Legal Documents
 
@@ -15,15 +15,15 @@ Free Azan App is a privacy-focused Islamic application that provides accurate pr
 
 ## 🔒 Privacy First
 
-- ✅ No data collection
+- ✅ No accounts, ads or analytics
 - ✅ No tracking
-- ✅ All data stored locally on your device
-- ✅ Open source (upon request)
+- ✅ Your prayer journal and settings stay on your device
+- ✅ Feedback and opt-in error reports are emailed only to the developer
 
 ## 📞 Contact
 
-For any questions or concerns, please email: **kkabir@yahoo.com**
+For any questions or concerns, please email: **anm.kabir@gmail.com**
 
 ---
 
-© 2026 Free Azan App by Hadi. All rights reserved.
+© 2026 Salat Companion by Hadi. All rights reserved.
